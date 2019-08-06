@@ -1,0 +1,12 @@
+# Python
+py37
+venv
+__pycache__
+*.pyc
+*.vscode
+
+# macOs
+.DS_Store
+
+dist
+
