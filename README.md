@@ -2,7 +2,7 @@ Sample micro service in Python
 To demonstrate cloud & container based deployments
 
 Build & Install instructions
-Python3.5 ENV (tested using  ANACONDA Python 3.5)
+Python3.7 ENV (tested using  ANACONDA Python 3.7.3)
 1. Create a virtual env in the project folder
 python3 -m venv venv
 
